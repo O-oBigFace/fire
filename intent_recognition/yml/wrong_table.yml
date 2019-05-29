@@ -123,7 +123,9 @@
 上人:
 - shang人
 - 上ren
+- 上reng
 - shangren
+- shangreng
 下榻:
 - xia榻
 - 下ta
@@ -346,8 +348,10 @@
 - qin人
 - qing人
 - 亲ren
-- qingren
+- 亲reng
 - qinren
+- qingren
+- qinreng
 亲友:
 - qin友
 - qing友
@@ -432,80 +436,96 @@
 - qinurou
 人夫:
 - ren夫
-- renfu
+- reng夫
 人妇:
 - ren妇
-- renfu
+- reng妇
 什么人:
 - shen么人
+- sheng么人
 - 什me人
-- 啥ren
 - 什么ren
+- 什么reng
 - shenme人
+- shengme人
 - shen么ren
+- sheng么reng
 - 什meren
+- 什mereng
 - shenmeren
+- shengmereng
 什么关系:
 - shen么关系
+- sheng么关系
 - 什me关系
 - 什么guan系
-- 啥guan系
 - 什么关xi
-- 啥关xi
 - shenme关系
+- shengme关系
 - shen么guan系
+- sheng么guan系
 - shen么关xi
+- sheng么关xi
 - 什meguan系
 - 什me关xi
 - 什么guanxi
-- 啥guanxi
 - shenmeguan系
+- shengmeguan系
 - shenme关xi
+- shengme关xi
 - shen么guanxi
+- sheng么guanxi
 - 什meguanxi
 - shenmeguanxi
+- shengmeguanxi
 什么地方上班:
 - shen么地方上班
+- sheng么地方上班
 - 什me地方上班
 - 什么di方上班
-- 啥di方上班
 - 什么地fang上班
-- 啥地fang上班
 - 什么地方shang班
-- 啥地方shang班
 - 什么地方上ban
-- 啥地方上ban
 - shenme地方上班
+- shengme地方上班
 - shen么di方上班
+- sheng么di方上班
 - shen么地fang上班
+- sheng么地fang上班
 - shen么地方shang班
+- sheng么地方shang班
 - shen么地方上ban
+- sheng么地方上ban
 - 什medi方上班
 - 什me地fang上班
 - 什me地方shang班
 - 什me地方上ban
 - 什么difang上班
-- 啥difang上班
 - 什么di方shang班
-- 啥di方shang班
 - 什么di方上ban
-- 啥di方上ban
 - 什么地fangshang班
-- 啥地fangshang班
 - 什么地fang上ban
-- 啥地fang上ban
 - 什么地方shangban
-- 啥地方shangban
 - shenmedi方上班
+- shengmedi方上班
 - shenme地fang上班
+- shengme地fang上班
 - shenme地方shang班
+- shengme地方shang班
 - shenme地方上ban
+- shengme地方上ban
 - shen么difang上班
+- sheng么difang上班
 - shen么di方shang班
+- sheng么di方shang班
 - shen么di方上ban
+- sheng么di方上ban
 - shen么地fangshang班
+- sheng么地fangshang班
 - shen么地fang上ban
+- sheng么地fang上ban
 - shen么地方shangban
+- sheng么地方shangban
 - 什medifang上班
 - 什medi方shang班
 - 什medi方上ban
@@ -513,87 +533,104 @@
 - 什me地fang上ban
 - 什me地方shangban
 - 什么difangshang班
-- 啥difangshang班
 - 什么difang上ban
-- 啥difang上ban
 - 什么di方shangban
-- 啥di方shangban
 - 什么地fangshangban
-- 啥地fangshangban
 - shenmedifang上班
+- shengmedifang上班
 - shenmedi方shang班
+- shengmedi方shang班
 - shenmedi方上ban
+- shengmedi方上ban
 - shenme地fangshang班
+- shengme地fangshang班
 - shenme地fang上ban
+- shengme地fang上ban
 - shenme地方shangban
+- shengme地方shangban
 - shen么difangshang班
+- sheng么difangshang班
 - shen么difang上ban
+- sheng么difang上ban
 - shen么di方shangban
+- sheng么di方shangban
 - shen么地fangshangban
+- sheng么地fangshangban
 - 什medifangshang班
 - 什medifang上ban
 - 什medi方shangban
 - 什me地fangshangban
 - 什么difangshangban
-- 啥difangshangban
 - shenmedifangshang班
+- shengmedifangshang班
 - shenmedifang上ban
+- shengmedifang上ban
 - shenmedi方shangban
+- shengmedi方shangban
 - shenme地fangshangban
+- shengme地fangshangban
 - shen么difangshangban
+- sheng么difangshangban
 - 什medifangshangban
 - shenmedifangshangban
+- shengmedifangshangban
 什么地方工作:
 - shen么地方工作
+- sheng么地方工作
 - 什me地方工作
 - 什么di方工作
-- 啥di方工作
 - 什么地fang工作
-- 啥地fang工作
 - 什么地方gong作
-- 啥地方gong作
 - 什么地方gon作
 - 什么地方工zuo
-- 啥地方工zuo
 - shenme地方工作
+- shengme地方工作
 - shen么di方工作
+- sheng么di方工作
 - shen么地fang工作
+- sheng么地fang工作
 - shen么地方gong作
+- sheng么地方gong作
 - shen么地方gon作
 - shen么地方工zuo
+- sheng么地方工zuo
 - 什medi方工作
 - 什me地fang工作
 - 什me地方gong作
 - 什me地方gon作
 - 什me地方工zuo
 - 什么difang工作
-- 啥difang工作
 - 什么di方gong作
-- 啥di方gong作
 - 什么di方gon作
 - 什么di方工zuo
-- 啥di方工zuo
 - 什么地fanggong作
-- 啥地fanggong作
 - 什么地fanggon作
 - 什么地fang工zuo
-- 啥地fang工zuo
 - 什么地方gongzuo
-- 啥地方gongzuo
 - 什么地方gonzuo
 - shenmedi方工作
+- shengmedi方工作
 - shenme地fang工作
+- shengme地fang工作
 - shenme地方gong作
+- shengme地方gong作
 - shenme地方gon作
 - shenme地方工zuo
+- shengme地方工zuo
 - shen么difang工作
+- sheng么difang工作
 - shen么di方gong作
+- sheng么di方gong作
 - shen么di方gon作
 - shen么di方工zuo
+- sheng么di方工zuo
 - shen么地fanggong作
+- sheng么地fanggong作
 - shen么地fanggon作
 - shen么地fang工zuo
+- sheng么地fang工zuo
 - shen么地方gongzuo
+- sheng么地方gongzuo
 - shen么地方gonzuo
 - 什medifang工作
 - 什medi方gong作
@@ -605,31 +642,37 @@
 - 什me地方gongzuo
 - 什me地方gonzuo
 - 什么difanggong作
-- 啥difanggong作
 - 什么difanggon作
 - 什么difang工zuo
-- 啥difang工zuo
 - 什么di方gongzuo
-- 啥di方gongzuo
 - 什么di方gonzuo
 - 什么地fanggongzuo
-- 啥地fanggongzuo
 - 什么地fanggonzuo
 - shenmedifang工作
+- shengmedifang工作
 - shenmedi方gong作
+- shengmedi方gong作
 - shenmedi方gon作
 - shenmedi方工zuo
+- shengmedi方工zuo
 - shenme地fanggong作
+- shengme地fanggong作
 - shenme地fanggon作
 - shenme地fang工zuo
+- shengme地fang工zuo
 - shenme地方gongzuo
+- shengme地方gongzuo
 - shenme地方gonzuo
 - shen么difanggong作
+- sheng么difanggong作
 - shen么difanggon作
 - shen么difang工zuo
+- sheng么difang工zuo
 - shen么di方gongzuo
+- sheng么di方gongzuo
 - shen么di方gonzuo
 - shen么地fanggongzuo
+- sheng么地fanggongzuo
 - shen么地fanggonzuo
 - 什medifanggong作
 - 什medifanggon作
@@ -639,52 +682,64 @@
 - 什me地fanggongzuo
 - 什me地fanggonzuo
 - 什么difanggongzuo
-- 啥difanggongzuo
 - 什么difanggonzuo
 - shenmedifanggong作
+- shengmedifanggong作
 - shenmedifanggon作
 - shenmedifang工zuo
+- shengmedifang工zuo
 - shenmedi方gongzuo
+- shengmedi方gongzuo
 - shenmedi方gonzuo
 - shenme地fanggongzuo
+- shengme地fanggongzuo
 - shenme地fanggonzuo
 - shen么difanggongzuo
+- sheng么difanggongzuo
 - shen么difanggonzuo
 - 什medifanggongzuo
 - 什medifanggonzuo
 - shenmedifanggongzuo
+- shengmedifanggongzuo
 - shenmedifanggonzuo
 什么工作:
 - shen么工作
+- sheng么工作
 - 什me工作
 - 什么gong作
-- 啥gong作
 - 什么gon作
 - 什么工zuo
-- 啥工zuo
 - shenme工作
+- shengme工作
 - shen么gong作
+- sheng么gong作
 - shen么gon作
 - shen么工zuo
+- sheng么工zuo
 - 什megong作
 - 什megon作
 - 什me工zuo
 - 什么gongzuo
-- 啥gongzuo
 - 什么gonzuo
 - shenmegong作
+- shengmegong作
 - shenmegon作
 - shenme工zuo
+- shengme工zuo
 - shen么gongzuo
+- sheng么gongzuo
 - shen么gonzuo
 - 什megongzuo
 - 什megonzuo
 - shenmegongzuo
+- shengmegongzuo
 - shenmegonzuo
 仁弟:
 - ren弟
+- reng弟
 - 仁di
 - rendi
+- rengdi
 伉俪:
 - kang俪
 - 伉li
@@ -727,47 +782,46 @@
 - zhuyiqi
 住哪:
 - zhu哪
-- zhu那
+住哪儿:
 - zhu哪儿
-- zhu那儿
-- 住na
-- zhuna
+- 住哪er
+- zhu哪er
+住哪儿里:
+- zhu哪儿里
+- 住哪er里
+- 住哪儿li
+- zhu哪er里
+- zhu哪儿li
+- 住哪erli
+- zhu哪erli
 住哪里:
 - zhu哪里
-- zhu那里
-- zhu哪儿里
-- zhu那儿里
-- 住na里
 - 住哪li
-- 住那li
-- 住哪儿li
-- 住那儿li
-- zhuna里
 - zhu哪li
-- zhu那li
-- zhu哪儿li
-- zhu那儿li
-- 住nali
-- zhunali
 住在哪:
 - zhu在哪
-- zhu在那
-- zhu在哪儿
-- zhu在那儿
 - 住zai哪
-- 住zai那
-- 住zai哪儿
-- 住zai那儿
-- 住在na
 - zhuzai哪
-- zhuzai那
+住在哪儿:
+- zhu在哪儿
+- 住zai哪儿
+- 住在哪er
 - zhuzai哪儿
+- zhu在哪er
+- 住zai哪er
+- zhuzai哪er
+住在那:
+- zhu在那
+- 住zai那
+- zhuzai那
+住在那儿:
+- zhu在那儿
+- 住zai那儿
+- 住在那er
 - zhuzai那儿
-- zhu在na
-- 住zaina
-- 住zainga
-- zhuzaina
-- zhuzainga
+- zhu在那er
+- 住zai那er
+- zhuzai那er
 住址:
 - zhu址
 - 住zhi
@@ -782,6 +836,24 @@
 - 住jing
 - zhujin
 - zhujing
+住那:
+- zhu那
+住那儿:
+- zhu那儿
+- 住那er
+- zhu那er
+住那儿里:
+- zhu那儿里
+- 住那er里
+- 住那儿li
+- zhu那er里
+- zhu那儿li
+- 住那erli
+- zhu那erli
+住那里:
+- zhu那里
+- 住那li
+- zhu那li
 佳偶:
 - jia偶
 - 佳ou
@@ -832,8 +904,10 @@
 先生:
 - xian生
 - 先sheng
+- 先shengg
 - 先shen
 - xiansheng
+- xianshengg
 - xianshen
 入伙:
 - ru伙
@@ -886,7 +960,9 @@
 内人:
 - nei人
 - 内ren
+- 内reng
 - neiren
+- neireng
 内助:
 - nei助
 - 内zhu
@@ -982,8 +1058,10 @@
 加盟:
 - jia盟
 - 加meng
+- 加mengg
 - 加men
 - jiameng
+- jiamengg
 - jiamen
 加群:
 - jia群
@@ -1004,7 +1082,9 @@
 友人:
 - you人
 - 友ren
+- 友reng
 - youren
+- youreng
 友好:
 - you好
 - 友hao
@@ -1012,8 +1092,10 @@
 友朋:
 - you朋
 - 友peng
+- 友pengg
 - 友pen
 - youpeng
+- youpengg
 - youpen
 双亲:
 - shuang亲
@@ -1115,7 +1197,9 @@
 - tong门
 - ton门
 - 同men
+- 同meng
 - tongmen
+- tongmeng
 - tonmen
 后代:
 - hou代
@@ -1124,15 +1208,21 @@
 哥们:
 - ge们
 - 哥men
+- 哥meng
 - gemen
+- gemeng
 哥们儿:
 - ge们儿
 - 哥men儿
+- 哥meng儿
 - 哥们er
 - gemen儿
+- gemeng儿
 - ge们er
 - 哥mener
+- 哥menger
 - gemener
+- gemenger
 哥俩:
 - ge俩
 - 哥lia
@@ -1146,101 +1236,95 @@
 - 哥ge
 - gege
 哪一位:
-- na一位
 - 哪yi位
-- 那yi位
-- 哪儿yi位
-- 那儿yi位
 - 哪一wei
-- 那一wei
-- 哪儿一wei
-- 那儿一wei
-- nayi位
-- na一wei
 - 哪yiwei
-- 那yiwei
-- 哪儿yiwei
-- 那儿yiwei
-- nayiwei
 哪上班:
-- na上班
 - 哪shang班
-- 那shang班
-- 哪儿shang班
-- 那儿shang班
 - 哪上ban
-- 那上ban
-- 哪儿上ban
-- 那儿上ban
-- nashang班
-- na上ban
 - 哪shangban
-- 那shangban
-- 哪儿shangban
-- 那儿shangban
-- nashangban
 哪个人:
 - nei个人
 - 哪ge人
-- 那ge人
-- 哪儿ge人
-- 那儿ge人
-- 那个ren
-- 哪儿个ren
-- 那儿个ren
 - 哪个ren
+- 哪个reng
 - neige人
 - nei个ren
-- 那geren
-- 哪儿geren
-- 那儿geren
+- nei个reng
 - 哪geren
+- 哪gereng
 - neigeren
+- neigereng
 哪些人:
-- nei些人
 - 哪xie人
-- 那xie人
-- 哪儿xie人
-- 那儿xie人
-- 那些ren
-- 哪儿些ren
-- 那儿些ren
 - 哪些ren
-- neixie人
-- nei些ren
-- 那xieren
-- 哪儿xieren
-- 那儿xieren
+- 哪些reng
 - 哪xieren
-- neixieren
+- 哪xiereng
 哪位:
-- na位
 - 哪wei
-- 那wei
+哪儿一位:
+- 哪er一位
+- 哪儿yi位
+- 哪儿一wei
+- 哪eryi位
+- 哪er一wei
+- 哪儿yiwei
+- 哪eryiwei
+哪儿上班:
+- 哪er上班
+- 哪儿shang班
+- 哪儿上ban
+- 哪ershang班
+- 哪er上ban
+- 哪儿shangban
+- 哪ershangban
+哪儿个人:
+- 哪er个人
+- 哪儿ge人
+- 哪儿个ren
+- 哪儿个reng
+- 哪erge人
+- 哪er个ren
+- 哪er个reng
+- 哪儿geren
+- 哪儿gereng
+- 哪ergeren
+- 哪ergereng
+哪儿些人:
+- 哪er些人
+- 哪儿xie人
+- 哪儿些ren
+- 哪儿些reng
+- 哪erxie人
+- 哪er些ren
+- 哪er些reng
+- 哪儿xieren
+- 哪儿xiereng
+- 哪erxieren
+- 哪erxiereng
+哪儿位:
+- 哪er位
 - 哪儿wei
-- 那儿wei
-- nawei
-哪工作:
-- na工作
-- 哪gong作
-- 那gong作
+- 哪erwei
+哪儿工作:
+- 哪er工作
 - 哪儿gong作
-- 那儿gong作
+- 哪儿gon作
+- 哪儿工zuo
+- 哪ergong作
+- 哪ergon作
+- 哪er工zuo
+- 哪儿gongzuo
+- 哪儿gonzuo
+- 哪ergongzuo
+- 哪ergonzuo
+哪工作:
+- 哪gong作
 - 哪gon作
 - 哪工zuo
-- 那工zuo
-- 哪儿工zuo
-- 那儿工zuo
-- nagong作
-- nagon作
-- na工zuo
 - 哪gongzuo
-- 那gongzuo
-- 哪儿gongzuo
-- 那儿gongzuo
 - 哪gonzuo
-- nagongzuo
-- nagonzuo
 四姑:
 - si姑
 - 四gu
@@ -1257,55 +1341,78 @@
 - nan囡
 - 囡nan
 - nannan
+在哪儿工作:
+- zai哪儿工作
+- 在哪er工作
+- 在哪儿gong作
+- 在哪儿gon作
+- 在哪儿工zuo
+- zai哪er工作
+- zai哪儿gong作
+- zai哪儿gon作
+- zai哪儿工zuo
+- 在哪ergong作
+- 在哪ergon作
+- 在哪er工zuo
+- 在哪儿gongzuo
+- 在哪儿gonzuo
+- zai哪ergong作
+- zai哪ergon作
+- zai哪er工zuo
+- zai哪儿gongzuo
+- zai哪儿gonzuo
+- 在哪ergongzuo
+- 在哪ergonzuo
+- zai哪ergongzuo
+- zai哪ergonzuo
 在哪工作:
 - zai哪工作
-- zai那工作
-- zai哪儿工作
-- zai那儿工作
-- 在na工作
 - 在哪gong作
-- 在那gong作
-- 在哪儿gong作
-- 在那儿gong作
 - 在哪gon作
 - 在哪工zuo
-- 在那工zuo
-- 在哪儿工zuo
-- 在那儿工zuo
-- zaina工作
-- zainga工作
 - zai哪gong作
-- zai那gong作
-- zai哪儿gong作
-- zai那儿gong作
 - zai哪gon作
 - zai哪工zuo
-- zai那工zuo
-- zai哪儿工zuo
-- zai那儿工zuo
-- 在nagong作
-- 在nagon作
-- 在na工zuo
 - 在哪gongzuo
-- 在那gongzuo
-- 在哪儿gongzuo
-- 在那儿gongzuo
 - 在哪gonzuo
-- zainagong作
-- zaingagong作
-- zainagon作
-- zaina工zuo
-- zainga工zuo
 - zai哪gongzuo
-- zai那gongzuo
-- zai哪儿gongzuo
-- zai那儿gongzuo
 - zai哪gonzuo
-- 在nagongzuo
-- 在nagonzuo
-- zainagongzuo
-- zaingagongzuo
-- zainagonzuo
+在那儿工作:
+- zai那儿工作
+- 在那er工作
+- 在那儿gong作
+- 在那儿gon作
+- 在那儿工zuo
+- zai那er工作
+- zai那儿gong作
+- zai那儿gon作
+- zai那儿工zuo
+- 在那ergong作
+- 在那ergon作
+- 在那er工zuo
+- 在那儿gongzuo
+- 在那儿gonzuo
+- zai那ergong作
+- zai那ergon作
+- zai那er工zuo
+- zai那儿gongzuo
+- zai那儿gonzuo
+- 在那ergongzuo
+- 在那ergonzuo
+- zai那ergongzuo
+- zai那ergonzuo
+在那工作:
+- zai那工作
+- 在那gong作
+- 在那gon作
+- 在那工zuo
+- zai那gong作
+- zai那gon作
+- zai那工zuo
+- 在那gongzuo
+- 在那gonzuo
+- zai那gongzuo
+- zai那gonzuo
 地址:
 - di址
 - 地zhi
@@ -1380,20 +1487,26 @@
 外甥:
 - wai甥
 - 外sheng
+- 外shengg
 - 外shen
 - waisheng
+- waishengg
 - waishen
 外甥女:
 - wai甥女
 - 外sheng女
+- 外shengg女
 - 外shen女
 - 外甥nv
 - waisheng女
+- waishengg女
 - waishen女
 - wai甥nv
 - 外shengnv
+- 外shenggnv
 - 外shennv
 - waishengnv
+- waishenggnv
 - waishennv
 外祖母:
 - wai祖母
@@ -1529,37 +1642,49 @@
 - da外甥
 - 大wai甥
 - 大外sheng
+- 大外shengg
 - 大外shen
 - dawai甥
 - da外sheng
+- da外shengg
 - da外shen
 - 大waisheng
+- 大waishengg
 - 大waishen
 - dawaisheng
+- dawaishengg
 - dawaishen
 大外甥女:
 - da外甥女
 - 大wai甥女
 - 大外sheng女
+- 大外shengg女
 - 大外shen女
 - 大外甥nv
 - dawai甥女
 - da外sheng女
+- da外shengg女
 - da外shen女
 - da外甥nv
 - 大waisheng女
+- 大waishengg女
 - 大waishen女
 - 大wai甥nv
 - 大外shengnv
+- 大外shenggnv
 - 大外shennv
 - dawaisheng女
+- dawaishengg女
 - dawaishen女
 - dawai甥nv
 - da外shengnv
+- da外shenggnv
 - da外shennv
 - 大waishengnv
+- 大waishenggnv
 - 大waishennv
 - dawaishengnv
+- dawaishenggnv
 - dawaishennv
 大女儿:
 - da女儿
@@ -1676,7 +1801,9 @@
 夫人:
 - fu人
 - 夫ren
+- 夫reng
 - furen
+- fureng
 夫妇:
 - fu妇
 - 夫fu
@@ -1692,7 +1819,9 @@
 女人:
 - nv人
 - 女ren
+- 女reng
 - nvren
+- nvreng
 女儿:
 - nv儿
 - 女er
@@ -1712,14 +1841,18 @@
 好朋友:
 - hao朋友
 - 好peng友
+- 好pengg友
 - 好pen友
 - 好朋you
 - haopeng友
+- haopengg友
 - haopen友
 - hao朋you
 - 好pengyou
+- 好penggyou
 - 好penyou
 - haopengyou
+- haopenggyou
 - haopenyou
 妈妈:
 - ma妈
@@ -1891,26 +2024,34 @@
 学生家长:
 - xue生家长
 - 学sheng家长
+- 学shengg家长
 - 学shen家长
 - 学生jia长
 - 学生家zhang
 - xuesheng家长
+- xueshengg家长
 - xueshen家长
 - xue生jia长
 - xue生家zhang
 - 学shengjia长
+- 学shenggjia长
 - 学shenjia长
 - 学sheng家zhang
+- 学shengg家zhang
 - 学shen家zhang
 - 学生jiazhang
 - xueshengjia长
+- xueshenggjia长
 - xueshenjia长
 - xuesheng家zhang
+- xueshengg家zhang
 - xueshen家zhang
 - xue生jiazhang
 - 学shengjiazhang
+- 学shenggjiazhang
 - 学shenjiazhang
 - xueshengjiazhang
+- xueshenggjiazhang
 - xueshenjiazhang
 学长:
 - xue长
@@ -1939,7 +2080,9 @@
 官人:
 - guan人
 - 官ren
+- 官reng
 - guanren
+- guanreng
 室友:
 - shi友
 - 室you
@@ -1947,7 +2090,9 @@
 家人:
 - jia人
 - 家ren
+- 家reng
 - jiaren
+- jiareng
 家口:
 - jia口
 - 家kou
@@ -2032,9 +2177,11 @@
 - bin朋
 - bing朋
 - 宾peng
+- 宾pengg
 - 宾pen
-- bingpeng
 - binpeng
+- bingpeng
+- binpengg
 - binpen
 寄宿:
 - ji宿
@@ -2154,37 +2301,49 @@
 - xiao外甥
 - 小wai甥
 - 小外sheng
+- 小外shengg
 - 小外shen
 - xiaowai甥
 - xiao外sheng
+- xiao外shengg
 - xiao外shen
 - 小waisheng
+- 小waishengg
 - 小waishen
 - xiaowaisheng
+- xiaowaishengg
 - xiaowaishen
 小外甥女:
 - xiao外甥女
 - 小wai甥女
 - 小外sheng女
+- 小外shengg女
 - 小外shen女
 - 小外甥nv
 - xiaowai甥女
 - xiao外sheng女
+- xiao外shengg女
 - xiao外shen女
 - xiao外甥nv
 - 小waisheng女
+- 小waishengg女
 - 小waishen女
 - 小wai甥nv
 - 小外shengnv
+- 小外shenggnv
 - 小外shennv
 - xiaowaisheng女
+- xiaowaishengg女
 - xiaowaishen女
 - xiaowai甥nv
 - xiao外shengnv
+- xiao外shenggnv
 - xiao外shennv
 - 小waishengnv
+- 小waishenggnv
 - 小waishennv
 - xiaowaishengnv
+- xiaowaishenggnv
 - xiaowaishennv
 小女儿:
 - xiao女儿
@@ -2515,7 +2674,9 @@
 投身:
 - tou身
 - 投shen
+- 投sheng
 - toushen
+- tousheng
 报到:
 - bao到
 - 报dao
@@ -2533,7 +2694,9 @@
 故人:
 - gu人
 - 故ren
+- 故reng
 - guren
+- gureng
 故旧:
 - gu旧
 - 故jiu
@@ -2566,9 +2729,11 @@
 - zanzhu
 朋友:
 - peng友
+- pengg友
 - pen友
 - 朋you
 - pengyou
+- penggyou
 - penyou
 校友:
 - xiao友
@@ -2606,7 +2771,9 @@
 爱人:
 - ai人
 - 爱ren
+- 爱reng
 - airen
+- aireng
 爱侣:
 - ai侣
 - 爱lv
@@ -2657,26 +2824,33 @@
 - die娘
 - 爹niang
 - dieniang
+- diengiang
 爹爹:
 - die爹
 - 爹die
 - diedie
 生母:
 - sheng母
+- shengg母
 - shen母
 - 生mu
 - shengmu
+- shenggmu
 - shenmu
 生父:
 - sheng父
+- shengg父
 - shen父
 - 生fu
 - shengfu
+- shenggfu
 - shenfu
 男人:
 - nan人
 - 男ren
+- 男reng
 - nanren
+- nanreng
 男友:
 - nan友
 - 男you
@@ -2687,126 +2861,168 @@
 - liusu
 登录:
 - deng录
+- dengg录
 - den录
-- denglu
 登记:
 - deng记
+- dengg记
 - den记
 - 登ji
 - dengji
+- denggji
 - denji
 登记单位:
 - deng记单位
+- dengg记单位
 - den记单位
 - 登ji单位
 - 登记dan位
 - 登记单wei
 - dengji单位
+- denggji单位
 - denji单位
 - deng记dan位
+- dengg记dan位
 - den记dan位
 - deng记单wei
+- dengg记单wei
 - den记单wei
 - 登jidan位
 - 登ji单wei
 - 登记danwei
 - dengjidan位
+- denggjidan位
 - denjidan位
 - dengji单wei
+- denggji单wei
 - denji单wei
 - deng记danwei
+- dengg记danwei
 - den记danwei
 - 登jidanwei
 - dengjidanwei
+- denggjidanwei
 - denjidanwei
 登记处:
 - deng记处
+- dengg记处
 - den记处
 - 登ji处
 - 登记chu
 - dengji处
+- denggji处
 - denji处
 - deng记chu
+- dengg记chu
 - den记chu
 - 登jichu
 - dengjichu
+- denggjichu
 - denjichu
 登记机关:
 - deng记机关
+- dengg记机关
 - den记机关
 - 登ji机关
 - 登记ji关
 - 登记机guan
 - dengji机关
+- denggji机关
 - denji机关
 - deng记ji关
+- dengg记ji关
 - den记ji关
 - deng记机guan
+- dengg记机guan
 - den记机guan
 - 登jiji关
 - 登ji机guan
 - 登记jiguan
 - dengjiji关
+- denggjiji关
 - denjiji关
 - dengji机guan
+- denggji机guan
 - denji机guan
 - deng记jiguan
+- dengg记jiguan
 - den记jiguan
 - 登jijiguan
 - dengjijiguan
+- denggjijiguan
 - denjijiguan
 登记机构:
 - deng记机构
+- dengg记机构
 - den记机构
 - 登ji机构
 - 登记ji构
 - 登记机gou
 - dengji机构
+- denggji机构
 - denji机构
 - deng记ji构
+- dengg记ji构
 - den记ji构
 - deng记机gou
+- dengg记机gou
 - den记机gou
 - 登jiji构
 - 登ji机gou
 - 登记jigou
 - dengjiji构
+- denggjiji构
 - denjiji构
 - dengji机gou
+- denggji机gou
 - denji机gou
 - deng记jigou
+- dengg记jigou
 - den记jigou
 - 登jijigou
 - dengjijigou
+- denggjijigou
 - denjijigou
 登记部门:
 - deng记部门
+- dengg记部门
 - den记部门
 - 登ji部门
 - 登记bu门
 - 登记部men
+- 登记部meng
 - dengji部门
+- denggji部门
 - denji部门
 - deng记bu门
+- dengg记bu门
 - den记bu门
 - deng记部men
+- dengg记部meng
 - den记部men
 - 登jibu门
 - 登ji部men
+- 登ji部meng
 - 登记bumen
+- 登记bumeng
 - dengjibu门
+- denggjibu门
 - denjibu门
 - dengji部men
+- denggji部meng
 - denji部men
 - deng记bumen
+- dengg记bumeng
 - den记bumen
 - 登jibumen
+- 登jibumeng
 - dengjibumen
+- denggjibumeng
 - denjibumen
 登陆:
 - deng陆
+- dengg陆
 - den陆
-- denglu
 相公:
 - xiang公
 - 相gong
@@ -2820,13 +3036,17 @@
 - 知xin人
 - 知xing人
 - 知心ren
+- 知心reng
 - zhixin人
 - zhixing人
 - zhi心ren
-- 知xingren
+- zhi心reng
 - 知xinren
-- zhixingren
+- 知xingren
+- 知xinreng
 - zhixinren
+- zhixingren
+- zhixinreng
 知音:
 - zhi音
 - 知yin
@@ -2847,8 +3067,10 @@
 - zuji
 稔友:
 - ren友
+- reng友
 - 稔you
 - renyou
+- rengyou
 签到:
 - qian到
 - 签dao
@@ -2895,25 +3117,33 @@
 - zhong身伴侣
 - zhon身伴侣
 - 终shen伴侣
+- 终sheng伴侣
 - 终身ban侣
 - 终身伴lv
 - zhongshen伴侣
+- zhongsheng伴侣
 - zhonshen伴侣
 - zhong身ban侣
 - zhon身ban侣
 - zhong身伴lv
 - zhon身伴lv
 - 终shenban侣
+- 终shengban侣
 - 终shen伴lv
+- 终sheng伴lv
 - 终身banlv
 - zhongshenban侣
+- zhongshengban侣
 - zhonshenban侣
 - zhongshen伴lv
+- zhongsheng伴lv
 - zhonshen伴lv
 - zhong身banlv
 - zhon身banlv
 - 终shenbanlv
+- 终shengbanlv
 - zhongshenbanlv
+- zhongshengbanlv
 - zhonshenbanlv
 继母:
 - 继mu
@@ -2930,23 +3160,31 @@
 群成员:
 - qun成员
 - 群cheng员
+- 群chengg员
 - 群chen员
 - 群成yuan
 - quncheng员
+- qunchengg员
 - qunchen员
 - qun成yuan
 - 群chengyuan
+- 群chenggyuan
 - 群chenyuan
 - qunchengyuan
+- qunchenggyuan
 - qunchenyuan
 老丈人:
 - lao丈人
 - 老zhang人
 - 老丈ren
+- 老丈reng
 - laozhang人
 - lao丈ren
+- lao丈reng
 - 老zhangren
+- 老zhangreng
 - laozhangren
+- laozhangreng
 老两口:
 - lao两口
 - 老liang口
@@ -3070,14 +3308,18 @@
 老朋友:
 - lao朋友
 - 老peng友
+- 老pengg友
 - 老pen友
 - 老朋you
 - laopeng友
+- laopengg友
 - laopen友
 - lao朋you
 - 老pengyou
+- 老penggyou
 - 老penyou
 - laopengyou
+- laopenggyou
 - laopenyou
 老汉:
 - lao汉
@@ -3353,6 +3595,96 @@
 - yaoqingjinqun
 - yaoqinggjingqun
 - yaoqinjinqun
+那一位:
+- 那yi位
+- 那一wei
+- 那yiwei
+那上班:
+- 那shang班
+- 那上ban
+- 那shangban
+那个人:
+- na个人
+- 那ge人
+- 那个ren
+- 那个reng
+- nage人
+- na个ren
+- na个reng
+- 那geren
+- 那gereng
+- nageren
+- nagereng
+那些人:
+- 那xie人
+- 那些ren
+- 那些reng
+- 那xieren
+- 那xiereng
+那位:
+- 那wei
+那儿一位:
+- 那er一位
+- 那儿yi位
+- 那儿一wei
+- 那eryi位
+- 那er一wei
+- 那儿yiwei
+- 那eryiwei
+那儿上班:
+- 那er上班
+- 那儿shang班
+- 那儿上ban
+- 那ershang班
+- 那er上ban
+- 那儿shangban
+- 那ershangban
+那儿个人:
+- 那er个人
+- 那儿ge人
+- 那儿个ren
+- 那儿个reng
+- 那erge人
+- 那er个ren
+- 那er个reng
+- 那儿geren
+- 那儿gereng
+- 那ergeren
+- 那ergereng
+那儿些人:
+- 那er些人
+- 那儿xie人
+- 那儿些ren
+- 那儿些reng
+- 那erxie人
+- 那er些ren
+- 那er些reng
+- 那儿xieren
+- 那儿xiereng
+- 那erxieren
+- 那erxiereng
+那儿位:
+- 那er位
+- 那儿wei
+- 那erwei
+那儿工作:
+- 那er工作
+- 那儿gong作
+- 那儿gon作
+- 那儿工zuo
+- 那ergong作
+- 那ergon作
+- 那er工zuo
+- 那儿gongzuo
+- 那儿gonzuo
+- 那ergongzuo
+- 那ergonzuo
+那工作:
+- 那gong作
+- 那gon作
+- 那工zuo
+- 那gongzuo
+- 那gonzuo
 郎舅:
 - lang舅
 - 郎jiu

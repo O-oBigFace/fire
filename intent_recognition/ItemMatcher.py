@@ -32,7 +32,7 @@ class ItemMatcher:
                 item.update({"id": self.rel2id[item["type"]]})
                 res["relation"].append(item)
             elif item["type"] in self.int2id:
-                if res["intent"] != '0':
+                if res["intent"] != '0' and res["intent"] != self.int2id[item["type"]]:
                     res["intent"] = '1'  # 冲突
                 else:
                     res["intent"] = self.int2id[item["type"]]
@@ -46,5 +46,5 @@ class ItemMatcher:
 if __name__ == '__main__':
     from pprint import pprint
     im = ItemMatcher(True)
-    r = im.matcher("住在烽火星空的李四的laopo是谁？")
+    r = im.matcher("张三的老婆是谁")
     pprint(r)
